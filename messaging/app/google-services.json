@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362628670998",
+    "firebase_url": "https://ewyler-85fad.firebaseio.com",
+    "project_id": "ewyler-85fad",
+    "storage_bucket": "ewyler-85fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362628670998:android:5920de3503a2d18c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362628670998-uv8qlb94ubhnkja4k70fdcgu9r9ln8es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.fcm",
+            "certificate_hash": "25BE9DCFE0FC83CD3362F7DE5AEC418832EC5E4E"
+          }
+        },
+        {
+          "client_id": "362628670998-4m3buoe9ggv6ep1tvi390v87f59kijp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKvY9BfbzucxzjnRry3V66SnuVUUEqtZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362628670998-4m3buoe9ggv6ep1tvi390v87f59kijp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
